@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=MikeCoder96&style=flat-square&label=Profile+Views)
 ![MikeCoder96's github stats](https://github-readme-stats.vercel.app/api?username=MikeCoder96&show_icons=true&theme=gruvbox)
 
 <!--
